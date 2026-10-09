@@ -7,7 +7,7 @@
 
 //string builder
 //mutable string changes in o(n) tc
-//stringbuilder a = new stringbuilder('')
+//StringBuilder a = new StringBuilder('')
 //a.append('')
 //character.toUppercase()
-//a.tostring() converts a to str
+//a.toString() converts a to str
