@@ -42,7 +42,7 @@
 - [x] buy and sell stock
 - [x] trapping rain water
 - [x] search 2d matrix II
-- [ ] Extra-12
+- [x] missing number
 - [ ] Extra-13
 - [ ] Extra-14
 - [ ] Extra-15
