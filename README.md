@@ -6,8 +6,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 5 
-**Current Streak:** 3 days  
+**Solved:** 7
+**Current Streak:** 4 days  
 **Last Updated:** oct 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -43,7 +43,7 @@
 - [x] trapping rain water
 - [x] search 2d matrix II
 - [x] missing number
-- [ ] Extra-13
+- [x] pow(x,n)
 - [ ] Extra-14
 - [ ] Extra-15
 - [ ] Extra-16
