@@ -6,8 +6,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 7
-**Current Streak:** 4 days  
+**Solved:** 9
+**Current Streak:** 5 days  
 **Last Updated:** oct 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -44,8 +44,8 @@
 - [x] search 2d matrix II
 - [x] missing number
 - [x] pow(x,n)
-- [ ] Extra-14
-- [ ] Extra-15
+- [x] sum of all odd length subarrays
+- [x] search in rotated sorted array
 - [ ] Extra-16
 - [ ] Extra-17
 - [ ] Extra-18
