@@ -6,7 +6,7 @@
 ---
 
 ## 📊 Progress
-**Solved:** 9
+**Solved:** 10
 **Current Streak:** 5 days  
 **Last Updated:** oct 2026
 
@@ -46,7 +46,7 @@
 - [x] pow(x,n)
 - [x] sum of all odd length subarrays
 - [x] search in rotated sorted array
-- [ ] Extra-16
+- [x] 3sum
 - [ ] Extra-17
 - [ ] Extra-18
 - [ ] Extra-19
