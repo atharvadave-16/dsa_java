@@ -6,8 +6,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 10
-**Current Streak:** 5 days  
+**Solved:** 11
+**Current Streak:** 6 days  
 **Last Updated:** oct 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -47,7 +47,7 @@
 - [x] sum of all odd length subarrays
 - [x] search in rotated sorted array
 - [x] 3sum
-- [ ] Extra-17
+- [x] sort colours
 - [ ] Extra-18
 - [ ] Extra-19
 - [ ] Extra-20
