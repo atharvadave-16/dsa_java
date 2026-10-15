@@ -12,4 +12,18 @@ class Solution {
         }
         return -1*sum ;
     }
+
+
+
+//bit manipulation method
+
+
+    public int singleNumber1(int[] nums) {
+        
+        int sum = 0;
+        for(int i: nums){
+            sum^= i;
+        }
+        return sum ;
+    }
 }
