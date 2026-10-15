@@ -6,8 +6,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 11
-**Current Streak:** 6 days  
+**Solved:** 12
+**Current Streak:** 7 days  
 **Last Updated:** oct 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -48,7 +48,7 @@
 - [x] search in rotated sorted array
 - [x] 3sum
 - [x] sort colours
-- [ ] Extra-18
+- [x] single number 
 - [ ] Extra-19
 - [ ] Extra-20
 - [ ] Extra-21
