@@ -7,8 +7,8 @@
 
 ## 📊 Progress
 **Solved:** 12
-**Current Streak:** 10 days  
-**Last Updated:** oct 2026
+**Current Streak:** 1 days  
+**Last Updated:** nov 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
 
@@ -49,7 +49,7 @@
 - [x] 3sum
 - [x] sort colours
 - [x] single number 
-- [ ] Extra-19
+- [x] transpose matrix
 - [ ] Extra-20
 - [ ] Extra-21
 - [ ] Extra-22
