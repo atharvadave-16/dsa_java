@@ -50,7 +50,7 @@
 - [x] sort colours
 - [x] single number 
 - [x] transpose matrix
-- [ ] Extra-20
+- [x] search 2d matrix
 - [ ] Extra-21
 - [ ] Extra-22
 - [ ] Extra-23
