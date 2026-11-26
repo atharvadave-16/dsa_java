@@ -21,3 +21,25 @@ class Solution {
         
     }
 }
+
+// optimal solution for space
+class Solution2 {
+    public boolean isAnagram(String s, String t) {
+        int []a = new int[26];
+        int n1 = s.length();
+        int n2= t.length();
+        if (n1 != n2){return false;}
+        for(int i = 0; i<n1;i++){
+            a[s.charAt(i) - 'a']++;
+            a[t.charAt(i) - 'a']--;
+        }
+        for(int i = 0;i<26;i++){
+            if(a[i] != 0){
+                return false;
+            }
+        }
+         return true;
+            
+        
+    }
+}
