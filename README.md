@@ -6,8 +6,8 @@
 ---
 
 ## 📊 Progress
-**Solved:** 12
-**Current Streak:** 3 days  
+**Solved:** 15
+**Current Streak:** 4 days  
 **Last Updated:** nov 2026
 
 > Rule: Code daily, even if it’s only 1 problem.
@@ -51,7 +51,7 @@
 - [x] single number 
 - [x] transpose matrix
 - [x] search 2d matrix
-- [ ] Extra-21
+- [x] valid anagram
 - [ ] Extra-22
 - [ ] Extra-23
 - [ ] Extra-24
