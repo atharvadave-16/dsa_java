@@ -6,7 +6,7 @@
 ---
 
 ## 📊 Progress
-**Solved:** 16
+**Solved:** 17
 **Current Streak:** 5 days  
 **Last Updated:** nov 2026
 
@@ -53,7 +53,7 @@
 - [x] search 2d matrix
 - [x] valid anagram
 - [x] number of 1 bits
-- [ ] Extra-23
+- [x] hamming distance
 - [ ] Extra-24
 - [ ] Extra-25
 - [ ] Extra-26
