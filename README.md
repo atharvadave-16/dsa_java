@@ -6,7 +6,7 @@
 ---
 
 ## 📊 Progress
-**Solved:** 15
+**Solved:** 16
 **Current Streak:** 5 days  
 **Last Updated:** nov 2026
 
@@ -52,7 +52,7 @@
 - [x] transpose matrix
 - [x] search 2d matrix
 - [x] valid anagram
-- [ ] Extra-22
+- [x] number of 1 bits
 - [ ] Extra-23
 - [ ] Extra-24
 - [ ] Extra-25
