@@ -9,3 +9,18 @@ class Solution {
         return a-sum;
     }
 }
+
+//bit manipulation solution
+class Solution2 {
+    public int missingNumber(int[] nums) {
+        int n = nums.length;
+        int a = 0;
+        for(int i = 0;i <=n;i++){
+             a ^= i;
+        }
+        for(int i = 0;i <n;i++){
+             a ^= nums[i] ;
+        }
+        return a;
+    }
+}
