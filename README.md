@@ -6,7 +6,7 @@
 ---
 
 ## 📊 Progress
-**Solved:** 17
+**Solved:** 18
 **Current Streak:** 5 days  
 **Last Updated:** nov 2026
 
@@ -54,7 +54,7 @@
 - [x] valid anagram
 - [x] number of 1 bits
 - [x] hamming distance
-- [ ] Extra-24
+- [x] power of 2
 - [ ] Extra-25
 - [ ] Extra-26
 - [ ] Extra-27
